@@ -4,7 +4,7 @@ Projeto Final Módulo 5 Resilia - SENAC RJ (Programadores Cariocas)
 
 ## Site de compras de eletrônicos
 
-O projeto consiste em um site que permite criar e armazenar usuários em um banco de dados. Esses usuários podem comprar produtos que estão em um banco de dados importado para a aplicação. No site, o cliente pode ver o preço final e visualizar o histórico de seus pedidos. O banco gerencia e separa o pedido para o usuário que está acessando sem misturar.
+O projeto consiste em um site que permite criar e armazenar usuários em um banco de dados. Esses usuários podem fazer pedidos de produtos que estão em um banco de dados importado para a aplicação. No site, o cliente pode ver o preço final e visualizar o histórico de seus pedidos. O banco gerencia e separa o pedido para o usuário que está acessando sem misturar.
 
 O usuário deve fazer o cadastro para poder comprar, e ao estar logado, pode fazer o pedido, visualizar antes de finalizar a compra e concluir a compra salvando no banco de dados.
 
