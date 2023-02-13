@@ -1,4 +1,4 @@
-# Projeto Node.js CRUD
+# Projeto Node.js CRUD API
 
 Projeto Final Módulo 5 Resilia - SENAC RJ (Programadores Cariocas)
 
