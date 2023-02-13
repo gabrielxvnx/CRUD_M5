@@ -32,6 +32,5 @@ Após colocar o arquivo em uma pasta de sua preferência ou na própria pasta, a
 
 Após isso, abra a aplicação no Visual Studio Code, abra o terminal e dê o comando `npm install` no diretório da aplicação. Após instalar as dependências, dê o comando `npm start`. Ele criará as tabelas que faltarem caso não tenha e abrirá a aplicação.
 
-## Licença
-
-Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter detalhes.
+## Considerações Finais
+Este projeto foi desenvolvido pelos Programadores Cariocas como trabalho final do módulo 5 do curso da Resilia - SENAC RJ. Seu objetivo foi demonstrar a capacidade dos alunos em desenvolver um site de compras com banco de dados e cadastro de usuários.
